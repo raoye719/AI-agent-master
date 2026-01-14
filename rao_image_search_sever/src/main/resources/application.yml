@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: rao_image_search_sever
+  profiles:
+    active: sse
+server:
+  port: 8127
+
