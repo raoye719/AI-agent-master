@@ -11,7 +11,7 @@ spring:
   ai:
     dashscope:
       # 需要替换为你自己的 key
-      api-key: sk-e28c41172a204b05ab76182d0c0a5b79
+      api-key: ###
       chat:
         options:
           model: deepseek-v3
@@ -59,7 +59,7 @@ knife4j:
 # searchAPI
 search-api:
   # 需要替换为你自己的 key
-  api-key: sk-e28c41172a204b05ab76182d0c0a5b79
+  api-key: ###
 # 修改日志级别，查看 Spring AI 更多调用细节
 logging:
   level:
